@@ -19,6 +19,11 @@ public class Demo1Application {
 // PUT localhost:8082/student/update/{id}
 // DELETE localhost:8082/student/delete/{id}
 
+
+
+
+
+
 // RestController
 // GET localhost:8081/
 // GET localhost:8081/ping
